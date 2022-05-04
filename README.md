@@ -10,5 +10,5 @@ In Addition in the folder `preprocessing` this repository includes notebook for 
 In order to train the Framework, you can use the method `pipeline` in the file `model/pipeline.py` to train and test an ACSE Framework. For more information on the parameters you need to pass to the method, please refer to the comments in the file.
 
 ## Citation
-If you find this work helpfull or want to use it please cite:
+If you find this work helpful or want to use it please cite:
 <i>tbd</i>
